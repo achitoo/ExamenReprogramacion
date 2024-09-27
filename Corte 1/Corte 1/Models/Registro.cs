@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Corte_1.Models
 
@@ -20,7 +21,7 @@ namespace Corte_1.Models
         }
 
         public void AgregarPersona(Persona persona)
-        {
+        {   
             if (contador < MAX)
             {
                 personas[contador] = persona;

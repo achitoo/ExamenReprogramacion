@@ -1,0 +1,10 @@
+C:\Users\lolv7\OneDrive\Desktop\Examen reprogramacion\Corte 1\Corte 1\obj\Debug\Corte 1.csproj.AssemblyReference.cache
+C:\Users\lolv7\OneDrive\Desktop\Examen reprogramacion\Corte 1\Corte 1\obj\Debug\Corte_1.Form1.resources
+C:\Users\lolv7\OneDrive\Desktop\Examen reprogramacion\Corte 1\Corte 1\obj\Debug\Corte_1.Properties.Resources.resources
+C:\Users\lolv7\OneDrive\Desktop\Examen reprogramacion\Corte 1\Corte 1\obj\Debug\Corte 1.csproj.GenerateResource.cache
+C:\Users\lolv7\OneDrive\Desktop\Examen reprogramacion\Corte 1\Corte 1\obj\Debug\Corte 1.csproj.CoreCompileInputs.cache
+C:\Users\lolv7\OneDrive\Desktop\Examen reprogramacion\Corte 1\Corte 1\bin\Debug\Corte 1.exe.config
+C:\Users\lolv7\OneDrive\Desktop\Examen reprogramacion\Corte 1\Corte 1\bin\Debug\Corte 1.exe
+C:\Users\lolv7\OneDrive\Desktop\Examen reprogramacion\Corte 1\Corte 1\bin\Debug\Corte 1.pdb
+C:\Users\lolv7\OneDrive\Desktop\Examen reprogramacion\Corte 1\Corte 1\obj\Debug\Corte 1.exe
+C:\Users\lolv7\OneDrive\Desktop\Examen reprogramacion\Corte 1\Corte 1\obj\Debug\Corte 1.pdb
